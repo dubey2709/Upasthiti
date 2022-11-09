@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "83629060389",
+    "project_id": "upasthiti-4bf9e",
+    "storage_bucket": "upasthiti-4bf9e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83629060389:android:2159fe16e9b6be0dddaacc",
+        "android_client_info": {
+          "package_name": "com.intruder.upasthiti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "83629060389-ski7s7ue7rt6pemtfc4uojkv5vscvjsh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOVFFKc4MDaxGoOTT_ruqaG7bLSXr0hcE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "83629060389-ski7s7ue7rt6pemtfc4uojkv5vscvjsh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
